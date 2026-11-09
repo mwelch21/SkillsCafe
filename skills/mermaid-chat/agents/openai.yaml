@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mermaid Chat"
+  short_description: "Render feature flows as images or text diagrams"
+  default_prompt: "Use $mermaid-chat image to visualize this feature flow in chat."
